@@ -8,5 +8,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/My"/>
+	<classpathentry kind="lib" path="lib/dbunit-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/hsqldb-1.8.0.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

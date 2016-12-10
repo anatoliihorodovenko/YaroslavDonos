@@ -25,6 +25,7 @@ public class UserTest extends TestCase {
 		assertEquals("Donos, Yaroslav", user.getFullName());
 	}
 	
+	
 	public void testGetAge() {
 		user.setDateOfBirthd(dateOfBirthd);
 		assertEquals(2016 - 1997, user.getAge());
